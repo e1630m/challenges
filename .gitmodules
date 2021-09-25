@@ -19,3 +19,6 @@
 [submodule "over-the-wire"]
 	path = over-the-wire
 	url = git@github.com:e1630m/over-the-wire
+[submodule "binary-search"]
+	path = binary-search
+	url = git@github.com:e1630m/binary-search
