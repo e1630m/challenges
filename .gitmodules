@@ -22,6 +22,3 @@
 [submodule "binary-search"]
 	path = binary-search
 	url = git@github.com:e1630m/binary-search
-[submodule "edabit"]
-	path = edabit
-	url = git@github.com:e1630m/edabit
