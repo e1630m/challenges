@@ -1,27 +1,27 @@
-[submodule "binary-search"]
-	path = binary-search
-	url = git@github.com:e1630m/binary-search
-[submodule "codewars"]
-	path = codewars
-	url = git@github.com:e1630m/codewars
-[submodule "daily-coding-problem"]
-	path = daily-coding-problem
-	url = git@github.com:e1630m/daily-coding-problem
-[submodule "edabit"]
-	path = edabit
-	url = git@github.com:e1630m/edabit
-[submodule "foobar"]
-	path = foobar
-	url = git@github.com:e1630m/foobar
-[submodule "hacker-rank"]
-	path = hacker-rank
-	url = git@github.com:e1630m/hacker-rank
 [submodule "leetcode"]
 	path = leetcode
 	url = git@github.com:e1630m/leetcode
-[submodule "over-the-wire"]
-	path = over-the-wire
-	url = git@github.com:e1630m/over-the-wire
+[submodule "hacker-rank"]
+	path = hacker-rank
+	url = git@github.com:e1630m/hacker-rank
+[submodule "daily-coding-problem"]
+	path = daily-coding-problem
+	url = git@github.com:e1630m/daily-coding-problem
+[submodule "codewars"]
+	path = codewars
+	url = git@github.com:e1630m/codewars
 [submodule "project-euler"]
 	path = project-euler
 	url = git@github.com:e1630m/project-euler
+[submodule "foobar"]
+	path = foobar
+	url = git@github.com:e1630m/foobar
+[submodule "over-the-wire"]
+	path = over-the-wire
+	url = git@github.com:e1630m/over-the-wire
+[submodule "binary-search"]
+	path = binary-search
+	url = git@github.com:e1630m/binary-search
+[submodule "edabit"]
+	path = edabit
+	url = git@github.com:e1630m/edabit
