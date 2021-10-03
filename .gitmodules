@@ -28,3 +28,6 @@
 [submodule "kickstart"]
 	path = kickstart
 	url = git@github.com:e1630m/kickstart
+[submodule "codejam"]
+	path = codejam
+	url = git@github.com:e1630m/codejam
