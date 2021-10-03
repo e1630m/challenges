@@ -25,3 +25,6 @@
 [submodule "edabit"]
 	path = edabit
 	url = git@github.com:e1630m/edabit
+[submodule "kickstart"]
+	path = kickstart
+	url = git@github.com:e1630m/kickstart
