@@ -31,3 +31,6 @@
 [submodule "codejam"]
 	path = codejam
 	url = git@github.com:e1630m/codejam
+[submodule "hashcode"]
+	path = hashcode
+	url = git@github.com:e1630m/hashcode
