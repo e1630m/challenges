@@ -1,2 +1,15 @@
 # My solutions to various challenges
-This is a meta-repo of my solution repos to various code challenge websites, including [binarysearch](https://binarysearch.com/), [codewars](https://www.codewars.com/), [Daily Coding Problem](https://www.dailycodingproblem.com/), [edabit](https://edabit.com/), [Google's Foobar Challenge](https://foobar.withgoogle.com/), [HackerRank](https://www.hackerrank.com/), [LeetCode](https://leetcode.com/), [OverTheWire](https://overthewire.org/wargames/) and [Project Euler](https://projecteuler.net/).
+This is a meta-repo of my solution repos to various code challenge websites, including;
+* [binarysearch](https://binarysearch.com/)
+* [codewars](https://www.codewars.com/)
+* [Daily Coding Problem](https://www.dailycodingproblem.com/)
+* [edabit](https://edabit.com/)
+* [Google's Foobar](https://foobar.withgoogle.com/)
+* [Google's Coding Competitions](https://codingcompetitions.withgoogle.com/)
+  * [code jam](https://codingcompetitions.withgoogle.com/codejam)
+  * [hash code](https://codingcompetitions.withgoogle.com/hashcode)
+  * [kick start](https://codingcompetitions.withgoogle.com/kickstart)
+* [HackerRank](https://www.hackerrank.com/)
+* [LeetCode](https://leetcode.com/)
+* [OverTheWire](https://overthewire.org/wargames/)
+* [Project Euler](https://projecteuler.net/)
